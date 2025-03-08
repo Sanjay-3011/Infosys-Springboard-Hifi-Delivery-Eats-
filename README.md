@@ -25,7 +25,7 @@ Tech Stack
 🔹 Backend: Python, Flask
 🔹 Database: SQLite
 🔹 Frontend/UI: Figma
-🔹 Data Analysis: Pandas, Matplotlib, Seaborn
+🔹 Data Analysis: Pandas, Matplotlib, Seaborn, Charts.js
 🔹 Algorithms: Graph Algorithms, K-Means Clustering
 
 
